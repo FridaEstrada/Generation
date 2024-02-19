@@ -1,0 +1,10 @@
+/* Hoja de estilos personalizada */
+/* CSS: cascading style sheet  */
+body{
+    background-color: #5c1dc1;
+    color: azure;
+    font-family: fantasy;
+}
+main{
+    text-align: center;
+}
